@@ -19,7 +19,7 @@
 
 <body>
 
-@if(\Carbon\Carbon::today() == '2020-08-08 00:00:00')
+@if(\Carbon\Carbon::today() == '2020-09-03 00:00:00')
  <div id="myModal" class="modal is-active ">
         <div class="modal-background"></div>
         <div class="modal-card">
@@ -276,7 +276,7 @@
                 <div class="tile">
                     <div class="tile is-parent">
                         <article class="tile is-child notification">
-                            <p class="title">Project title</p>
+                            <p class="title">PlainNews</p>
                             <figure class="image is-4by3">
                                 <img class="modal-trigger" data-target="project-4-modal" src="{{asset('img/project-4-cover.png')}}" alt="">
                             </figure>
@@ -548,19 +548,19 @@
     <div class="modal-background"></div>
     <div class="modal-card">
         <header class="modal-card-head">
-            <p class="modal-card-title">Project title</p>
+            <p class="modal-card-title">PlainNews</p>
             <button class="delete" aria-label="close"></button>
         </header>
         <section class="modal-card-body">
             <div id="project-4-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/1.png')}}" alt="">
+                    <img src="{{asset('img/carousel/project-4-1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/2.png')}}" alt="">
+                    <img src="{{asset('img/carousel/project-4-2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/3.png')}}" alt="">
+                    <img src="{{asset('img/carousel/project-4-3.png')}}" alt="">
                 </figure>
             </div>
 
