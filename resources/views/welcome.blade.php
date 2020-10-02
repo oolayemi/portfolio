@@ -4,8 +4,8 @@
 <head>
     <title>devfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="public/favicon.png" type="image/x-icon">
-    <link rel="stylesheet" href="public/css/main.bundle.css">
+    <link rel="icon" href="{{asset('favicon.png')}}" type="image/x-icon">
+    <link rel="stylesheet" href="{{asset('css/main.bundle.css')}}">
 {{--    <link rel="stylesheet" href="{{asset('css/app.css')}}">--}}
 
 
@@ -31,7 +31,7 @@
 
                 <div id="project-1-modal-carousel" class="carousel">
                     <figure class="image is-4by3 carousel-cell">
-                        <img src="public/img/tenor2.gif" alt="">
+                        <img src="{{asset('img/tenor2.gif')}}" alt="">
                     </figure>
                 </div>
 
@@ -132,7 +132,7 @@
             <div class="level">
                 <div class="level-item has-text-centered">
                     <figure class="image is-128x128">
-                        <img class="is-rounded" src="public/img/picture.jpg" alt="">
+                        <img class="is-rounded" src="{{asset('img/picture.jpg')}}" alt="">
                     </figure>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                         Android Dev, Java, PHP(Laravel), Flutter.
                     </h2>
                     <p>
-                        <a href="public/docs/resume.docs" class="icon has-text-light">
+                        <a href="{{asset('docs/resume.docs')}}" class="icon has-text-light">
                             <i class="fas fa-file-word"></i> <strong>Resume</strong>
                         </a>
                     </p>
@@ -175,7 +175,7 @@
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="public/img/dunder-mifflin-logo.png" alt="Placeholder image">
+                            <img src="{{asset('img/dunder-mifflin-logo.png')}}" alt="Placeholder image">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -207,7 +207,7 @@
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="public/img/pied-piper-logo.png" alt="Placeholder image">
+                            <img src="{{asset('img/pied-piper-logo.png')}}" alt="Placeholder image">
                         </figure>
                     </div>
                     <div class="media-content">
@@ -248,7 +248,7 @@
                         <article class="tile is-child notification">
                             <p class="title">Portfolio</p>
                             <figure class="image is-3by2">
-                                <img class="modal-trigger" data-target="project-1-modal" src="public/img/project-1-cover.png" alt="">
+                                <img class="modal-trigger" data-target="project-1-modal" src="{{asset('img/project-1-cover.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -256,7 +256,7 @@
                         <article class="tile is-child notification">
                             <p class="title">Wear A Mask</p>
                             <figure class="image is-4by3">
-                                <img class="modal-trigger" data-target="project-2-modal" src="public/img/carousel/project-2-2.png" alt="">
+                                <img class="modal-trigger" data-target="project-2-modal" src="{{asset('img/carousel/project-2-2.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -264,7 +264,7 @@
                         <article class="tile is-child notification">
                             <p class="title">NuTron</p>
                             <figure class="image is-4by3">
-                                <img class="modal-trigger" data-target="project-3-modal" src="public/img/project-3-1.png" alt="">
+                                <img class="modal-trigger" data-target="project-3-modal" src="{{asset('img/project-3-1.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -278,7 +278,7 @@
                         <article class="tile is-child notification">
                             <p class="title">PlainNews</p>
                             <figure class="image is-4by3">
-                                <img class="modal-trigger" data-target="project-4-modal" src="public/img/project-4-cover.png" alt="">
+                                <img class="modal-trigger" data-target="project-4-modal" src="{{asset('img/project-4-cover.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -286,7 +286,7 @@
                         <article class="tile is-child notification">
                             <p class="title">Project title</p>
                             <figure class="image is-4by3">
-                                <img class="modal-trigger" data-target="project-5-modal" src="public/img/project-5-cover.png" alt="">
+                                <img class="modal-trigger" data-target="project-5-modal" src="{{asset('img/project-5-cover.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -294,7 +294,7 @@
                         <article class="tile is-child notification">
                             <p class="title">Project title</p>
                             <figure class="image is-4by3">
-                                <img class="modal-trigger" data-target="project-6-modal" src="public/img/project-6-cover.png" alt="">
+                                <img class="modal-trigger" data-target="project-6-modal" src="{{asset('img/project-6-cover.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -422,13 +422,13 @@
 
             <div id="project-1-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-1-1.png" alt="">
+                    <img src="{{asset('img/carousel/project-1-1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-1-2.png" alt="">
+                    <img src="{{asset('img/carousel/project-1-2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-1-3.png" alt="">
+                    <img src="{{asset('img/carousel/project-1-3.png')}}" alt="">
                 </figure>
             </div>
 
@@ -468,13 +468,13 @@
 
             <div id="project-2-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-2-1.png" alt="">
+                    <img src="{{asset('img/carousel/project-2-1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-2-2.png" alt="">
+                    <img src="{{asset('img/carousel/project-2-2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-2-3.png" alt="">
+                    <img src="{{asset('img/carousel/project-2-3.png')}}" alt="">
                 </figure>
             </div>
 
@@ -513,13 +513,13 @@
         <section class="modal-card-body">
             <div id="project-3-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/1.png" alt="">
+                    <img src="{{asset('img/carousel/1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/2.png" alt="">
+                    <img src="{{asset('img/carousel/2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-3-1.png" alt="">
+                    <img src="{{asset('img/carousel/project-3-1.png')}}" alt="">
                 </figure>
             </div>
 
@@ -554,13 +554,13 @@
         <section class="modal-card-body">
             <div id="project-4-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-4-1.png" alt="">
+                    <img src="{{asset('img/carousel/project-4-1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-4-2.png" alt="">
+                    <img src="{{asset('img/carousel/project-4-2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/project-4-3.png" alt="">
+                    <img src="{{asset('img/carousel/project-4-3.png')}}" alt="">
                 </figure>
             </div>
 
@@ -595,13 +595,13 @@
         <section class="modal-card-body">
             <div id="project-5-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/1.png" alt="">
+                    <img src="{{asset('img/carousel/1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/2.png" alt="">
+                    <img src="{{asset('img/carousel/2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/3.png" alt="">
+                    <img src="{{asset('img/carousel/3.png')}}" alt="">
                 </figure>
             </div>
 
@@ -636,13 +636,13 @@
         <section class="modal-card-body">
             <div id="project-6-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/1.png" alt="">
+                    <img src="{{asset('img/carousel/1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/2.png" alt="">
+                    <img src="{{asset('img/carousel/2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="public/img/carousel/3.png" alt="">
+                    <img src="{{asset('img/carousel/3.png')}}" alt="">
                 </figure>
             </div>
 
@@ -676,7 +676,7 @@
     </div>
 </footer>
 
-<script src="public/js/bundle.js"></script>
+<script src="{{asset('js/bundle.js')}}"></script>
 
 
 </body>
