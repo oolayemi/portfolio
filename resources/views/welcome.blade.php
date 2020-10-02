@@ -19,7 +19,7 @@
 
 <body>
 
-@if(\Carbon\Carbon::today() == '2020-10-01 00:00:00')
+@if(\Carbon\Carbon::today() == '2020-09-01 00:00:00')
  <div id="myModal" class="modal is-active ">
         <div class="modal-background"></div>
         <div class="modal-card">
