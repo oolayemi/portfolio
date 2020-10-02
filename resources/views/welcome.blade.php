@@ -159,11 +159,12 @@
     <div class="container">
         <h1 class="title">About Me</h1>
         <hr />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum.</p>
+        <p> A professional with a drive, vision, energy and a personality that will prove an asset to a company.
+            Creative Web, Mobile Developer dedicated to learning, building and optimizing user-friendly mobile, web
+            development software. To leverage technical, analytical and problem-solving skills to create dynamic, high speed
+            website, apps fueling competitive advantage and revenue growth.
+            I am also a contentious and dynamic person that is highly motivated and goal-oriented, a professional and enthusiast learner.
+        </p>
     </div>
 </section>
 <section class="section">
