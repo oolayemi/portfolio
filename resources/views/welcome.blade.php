@@ -5,7 +5,7 @@
     <title>devfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="{{asset('favicon.png')}}" type="image/x-icon">
-    <link rel="stylesheet" href="{{asset('css/main.bundle.css')}}">
+    <link rel="stylesheet" href="/css/main.bundle.css">
 {{--    <link rel="stylesheet" href="{{asset('css/app.css')}}">--}}
 
 
@@ -19,7 +19,7 @@
 
 <body>
 
-@if(\Carbon\Carbon::today() == '2020-09-03 00:00:00')
+@if(\Carbon\Carbon::today() == '2020-10-02 00:00:00')
  <div id="myModal" class="modal is-active ">
         <div class="modal-background"></div>
         <div class="modal-card">
