@@ -5,7 +5,7 @@
     <title>devfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="{{asset('favicon.png')}}" type="image/x-icon">
-    <link rel="stylesheet" href="{{asset('css/main.bundle.css')}}">
+    <link rel="stylesheet" href="public/css/main.bundle.css">
 {{--    <link rel="stylesheet" href="{{asset('css/app.css')}}">--}}
 
 
@@ -676,7 +676,7 @@
     </div>
 </footer>
 
-<script src="{{asset('js/bundle.js')}}"></script>
+<script src="public/js/bundle.js"></script>
 
 
 </body>
