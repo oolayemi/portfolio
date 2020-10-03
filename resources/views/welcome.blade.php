@@ -171,29 +171,28 @@
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="{{asset('img/dunder-mifflin-logo.png')}}" alt="Placeholder image">
+                            <img src="{{asset('img/codegear.jpg')}}" alt="Placeholder image">
                         </figure>
                     </div>
                     <div class="media-content">
-                        <p class="title is-4">Company Name</p>
-                        <p class="subtitle is-6">Title - <time datetime="2018-1">January 2018</time> - <time
-                                datetime="2019-9">Sepemter 2019</time> </p>
+                        <p class="title is-4">CodeGear</p>
+                        <p class="subtitle is-6">Title - <time datetime="2019-12">December 2019</time> - <time
+                                datetime="2020-3">March 2020</time> </p>
                     </div>
                 </div>
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
+                    <p>A tutor class created by the Faculty of Engineering Students, University of Ibadan.</p>
                     <ul>
-                        <li>Noteworthy achievment here.</li>
-                        <li>Noteworthy achievment here.</li>
-                        <li>Noteworthy achievment here.</li>
+                        <li>Taught Basic Java.</li>
+                        <li>Started work on a collective project.</li>
+                        <li>Expose people to the importance of Software Development.</li>
                     </ul>
                     <div class="tags">
-                        <span class="tag">c#</span>
-                        <span class="tag">xamarin</span>
-                        <span class="tag">asp.net core</span>
-                        <span class="tag">.net core</span>
-                        <span class="tag">azure</span>
-                        <span class="tag">devops</span>
+                        <span class="tag">Java</span>
+                        <span class="tag">Python</span>
+                        <span class="tag">CodeGear</span>
+                        <span class="tag">Tutor</span>
+                        <span class="tag">Fundamentals </span>
                     </div>
                 </div>
             </div>
@@ -203,17 +202,17 @@
                 <div class="media">
                     <div class="media-left">
                         <figure class="image is-48x48">
-                            <img src="{{asset('img/pied-piper-logo.png')}}" alt="Placeholder image">
+                            <img src="{{asset('img/numberonegeeks.png')}}" alt="Placeholder image">
                         </figure>
                     </div>
                     <div class="media-content">
-                        <p class="title is-4">Company Name</p>
+                        <p class="title is-4">NumberOne Geeks Studios</p>
                         <p class="subtitle is-6">Title - <time datetime="2018-1">August 2017</time> - <time
                                 datetime="2017-9">January 2018</time></p>
                     </div>
                 </div>
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
+                    <p>Number One Geeks Hub is a creative media studio and I.C.T company that offers end to end services in Animation, Motion graphics and media content.</p>
                     <ul>
                         <li>Noteworthy achievment here.</li>
                         <li>Noteworthy achievment here.</li>
