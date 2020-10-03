@@ -355,28 +355,28 @@
         <nav class="level">
             <div class="level-item has-text-centered">
                 <div>
-                    <a href="https://github.com/oolayemi" class="icon is-large">
+                    <a href="https://github.com/oolayemi"  target="_blank"  class="icon is-large">
                         <i class="fab fa-2x fa-github"></i>
                     </a>
-                    <p class="heading"><a href="https://github.com/oolayemi">GitHub</a></p>
+                    <p class="heading"><a target="_blank" href="https://github.com/oolayemi">GitHub</a></p>
                 </div>
             </div>
 
             <div class="level-item has-text-centered">
                 <div>
-                    <a href="https://www.facebook.com/olayemi.olaomo" class="icon is-large">
+                    <a href="https://www.facebook.com/olayemi.olaomo" target="_blank" class="icon is-large">
                         <i class="fab fa-2x fa-facebook"></i>
                     </a>
-                    <p class="heading"><a href="https://www.facebook.com/olayemi.olaomo">Facebook</a></p>
+                    <p class="heading"><a href="https://www.facebook.com/olayemi.olaomo" target="_blank" >Facebook</a></p>
                 </div>
             </div>
 
             <div class="level-item has-text-centered">
                 <div>
-                    <a href="https://twitter.com/OlayemiDev" class="icon is-large">
+                    <a href="https://twitter.com/OlayemiDev" class="icon is-large" target="_blank" >
                         <i class="fab fa-2x fa-twitter"></i>
                     </a>
-                    <p class="heading"><a href="https://twitter.com/OlayemiDev">Twitter</a></p>
+                    <p class="heading"><a href="https://twitter.com/OlayemiDev" target="_blank" >Twitter</a></p>
                 </div>
             </div>
         </nav>
@@ -384,27 +384,27 @@
         <nav class="level">
             <div class="level-item has-text-centered">
                 <div>
-                    <a href="mailto:olayemiolaomo5@gmail.com" class="icon is-large">
+                    <a href="mailto:olayemiolaomo5@gmail.com" class="icon is-large" target="_blank" >
                         <i class="fas fa-2x fa-envelope"></i>
                     </a>
-                    <p class="heading"><a href="mailto:olayemiolaomo5@gmail.com">Gmail</a></p>
+                    <p class="heading"><a href="mailto:olayemiolaomo5@gmail.com" target="_blank" >Gmail</a></p>
                 </div>
             </div>
             <div class="level-item has-text-centered">
                 <div>
-                    <a href="https://www.linkedin.com/in/olayemi-olaomo-79abab183" class="icon is-large">
+                    <a href="https://www.linkedin.com/in/olayemi-olaomo-79abab183" class="icon is-large" target="_blank" >
                         <i class="fab fa-2x fa-linkedin-in"></i>
                     </a>
-                    <p class="heading"><a href="https://www.linkedin.com/in/olayemi-olaomo-79abab183">LinkedIn</a></p>
+                    <p class="heading"><a href="https://www.linkedin.com/in/olayemi-olaomo-79abab183" target="_blank" >LinkedIn</a></p>
                 </div>
             </div>
 
             <div class="level-item has-text-centered">
                 <div>
-                    <a href="https://www.instagram.com/holayemmmy" class="icon is-large">
+                    <a href="https://www.instagram.com/holayemmmy" target="_blank" class="icon is-large">
                         <i class="fab fa-2x fa-instagram"></i>
                     </a>
-                    <p class="heading"><a href="https://www.instagram.com/holayemmmy">Instagram</a></p>
+                    <p class="heading"><a href="https://www.instagram.com/holayemmmy" target="_blank" >Instagram</a></p>
                 </div>
             </div>
         </nav>
