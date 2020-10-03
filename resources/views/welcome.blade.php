@@ -471,7 +471,14 @@
 
             <div class="content">
 
-                <p>An App that was created for coronavirus awareness and that helps you with a reminder when a schedules .</p>
+                <p>
+                    An App that was created for coronavirus awareness.
+                    <br>
+                    The apps works in two dimensions, first of which is a task schedule reminder that prompts you to go out with your face mask before leaving for the scheduled outing.
+                    <br>
+                    The second approach is the use of google maps with prompts you to take your face mask whenever you are 3miles away from your saved place of residence.
+                </p>
+
 
                 <div class="tags">
                     <span class="tag">Android</span>
@@ -511,7 +518,8 @@
             </div>
 
             <div class="content">
-                <p>One of two Patient-Doctor relationship app.
+                <p>
+                    One of two Patient-Doctor relationship app.
                     The second (patient's) part of a doctor-patient communication app that helps facilitate off-work checkups and follow-ups.
                     The apps leverages its functionality on an online database called <span class="tag">Firebase</span> The app is fully built with Java for Android devices only and with a online-database (Firebase).
                 </p>
