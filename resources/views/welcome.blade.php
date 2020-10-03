@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>Portfolio - Olayemi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="{{asset('favicon.png')}}" type="image/x-icon">
     <link rel="stylesheet" href="/css/main.bundle.css">
-{{--    <link rel="stylesheet" href="{{asset('css/app.css')}}">--}}
+    {{--<link rel="stylesheet" href="{{asset('css/app.css')}}">--}}
 
     <!-- Bootstrap -->
-{{--    <link href="{{asset('vendors/bootstrap/dist/css/bootstrap.min.css')}}" rel="stylesheet">--}}
+    {{--<link href="{{asset('vendors/bootstrap/dist/css/bootstrap.min.css')}}" rel="stylesheet">--}}
 
     <script src="{{url('https://kit.fontawesome.com/4e5a72c756.js')}}"></script>
 </head>
