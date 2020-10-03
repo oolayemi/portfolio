@@ -214,17 +214,17 @@
                 <div class="content">
                     <p>Number One Geeks Hub is a creative media studio and I.C.T company that offers end to end services in Animation, Motion graphics and media content.</p>
                     <ul>
-                        <li>Noteworthy achievment here.</li>
-                        <li>Noteworthy achievment here.</li>
-                        <li>Noteworthy achievment here.</li>
+                        <li>Learning Web Development.</li>
+                        <li>Working on real life projects.</li>
+                        <li>Learning motion graphics.</li>
                     </ul>
                     <div class="tags">
-                        <span class="tag">c#</span>
-                        <span class="tag">xamarin</span>
-                        <span class="tag">asp.net core</span>
-                        <span class="tag">.net core</span>
-                        <span class="tag">azure</span>
-                        <span class="tag">devops</span>
+                        <span class="tag">Web Dev</span>
+                        <span class="tag">HTML & CSS</span>
+                        <span class="tag">PHP</span>
+                        <span class="tag">Motion Graphics</span>
+                        <span class="tag">Frontend</span>
+                        <span class="tag">Backend</span>
                     </div>
                 </div>
             </div>
