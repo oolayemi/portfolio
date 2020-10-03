@@ -87,11 +87,6 @@
 
 
 
-
-
-
-
-
 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <div class="navbar-item is-hidden-desktop">
@@ -311,7 +306,7 @@
                             datetime="2019-9">till date</time></p>
                 </div>
                 <div class="content">
-                        Computer Science department, University of Ibadan.
+                    Computer Science department, University of Ibadan.
                     The First and The Best University in Nigeria.
                     <ul>
                         <li>Awarded student of the week, Computer Science Department.</li>
@@ -429,11 +424,12 @@
 
             <div class="content">
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore
-                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    commodo
-                    consequat.</p>
+                <p>A brief portfolio website about Myself.
+                    I am a contentious and dynamic person that is highly motivated and goal-oriented, a professional and enthusiast learner.
+                    <br>
+                    The portfolio website shows experience, educational background, some of my projects and information on how to reach me on some of my social media presence.
+
+                </p>
 
                 <div class="tags">
                     <span class="tag">HTML</span>
@@ -475,11 +471,7 @@
 
             <div class="content">
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore
-                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    commodo
-                    consequat.</p>
+                <p>An App that was created for coronavirus awareness and that helps you with a reminder when a schedules .</p>
 
                 <div class="tags">
                     <span class="tag">Android</span>
@@ -508,27 +500,26 @@
         <section class="modal-card-body">
             <div id="project-3-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/1.png')}}" alt="">
+                    <img src="{{asset('img/carousel/project-3-1.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
                     <img src="{{asset('img/carousel/2.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/project-3-1.png')}}" alt="">
+                    <img src="{{asset('img/carousel/1.png')}}" alt="">
                 </figure>
             </div>
 
             <div class="content">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore
-                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    commodo
-                    consequat.</p>
+                <p>One of two Patient-Doctor relationship app.
+                    The second (patient's) part of a doctor-patient communication app that helps facilitate off-work checkups and follow-ups.
+                    The apps leverages its functionality on an online database called <span class="tag">Firebase</span> The app is fully built with Java for Android devices only and with a online-database (Firebase).
+                </p>
                 <div class="tags">
-                    <span class="tag">angular</span>
-                    <span class="tag">mongo</span>
-                    <span class="tag">typscript</span>
-                    <span class="tag">node</span>
+                    <span class="tag">Android</span>
+                    <span class="tag">Mobile</span>
+                    <span class="tag">Firebase</span>
+                    <span class="tag">Java</span>
                 </div>
             </div>
 
