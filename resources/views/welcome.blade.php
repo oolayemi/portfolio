@@ -8,15 +8,11 @@
     <link rel="stylesheet" href="/css/main.bundle.css">
 {{--    <link rel="stylesheet" href="{{asset('css/app.css')}}">--}}
 
-
     <!-- Bootstrap -->
 {{--    <link href="{{asset('vendors/bootstrap/dist/css/bootstrap.min.css')}}" rel="stylesheet">--}}
 
-
-
     <script src="{{url('https://kit.fontawesome.com/4e5a72c756.js')}}"></script>
 </head>
-
 <body>
 
 @if(\Carbon\Carbon::today() == '2020-09-01 00:00:00')
