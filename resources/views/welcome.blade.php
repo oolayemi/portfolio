@@ -311,11 +311,11 @@
                             datetime="2019-9">till date</time></p>
                 </div>
                 <div class="content">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Phasellus nec iaculis mauris.
+                        Computer Science department, University of Ibadan.
+                    The First and The Best University in Nigeria.
                     <ul>
-                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+                        <li>Awarded student of the week, Computer Science Department.</li>
+                        <li>Currently in 300Level.</li>
                     </ul>
                 </div>
             </div>
