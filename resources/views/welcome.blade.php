@@ -650,7 +650,7 @@
                     <span class="tag">Java</span>
                     <span class="tag">PHP</span>
                     <span class="tag">Flutter</span>
-                    <span class="tag">Fullstack</span>
+                    <span class="tag">FullStack</span>
                 </div>
             </div>
 
@@ -664,8 +664,8 @@
 <footer class="footer">
     <div class="content has-text-centered">
         <p>
-            <a href="https://github.com/mmacneil/devfolio" target="_blank" class="icon has-text-primary">
-                <i class="fab fa-github"></i> <strong>devfolio</strong></a>
+            <a href="https://github.com/oolayemi" target="_blank" class="icon has-text-primary">
+                <i class="fab fa-github"></i> <strong>Olayemi</strong></a>
         </p>
     </div>
 </footer>
