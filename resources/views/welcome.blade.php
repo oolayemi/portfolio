@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="{{asset('favicon.png')}}" type="image/x-icon">
     <link rel="stylesheet" href="/css/main.bundle.css">
-    <link rel="stylesheet" href="/css/fontawesome/css/font-awesome.css">
+{{--    <link rel="stylesheet" href="public/css/fontawesome/css/font-awesome.css">--}}
 
     <script src="{{url('https://kit.fontawesome.com/4e5a72c756.js')}}"></script>
 
