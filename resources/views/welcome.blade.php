@@ -130,7 +130,7 @@
                         Olayemi Olaomo
                     </h1>
                     <h2 class="subtitle">
-                        Android Dev, Java, PHP(Laravel), Flutter.
+                        Android Dev, Java, PHP(Laravel), Flutter, VueJS
                     </h2>
                     <p>
                         <a href="{{asset('docs/visualcv.pdf')}}" class="icon has-text-light">
@@ -272,9 +272,9 @@
                     </div>
                     <div class="tile is-parent">
                         <article class="tile is-child notification">
-                            <p class="title">Project title</p>
+                            <p class="title">WeatherToday</p>
                             <figure class="image is-4by3">
-                                <img class="modal-trigger" data-target="project-5-modal" src="{{asset('img/project-5-cover.png')}}" alt="">
+                                <img class="modal-trigger" data-target="project-5-modal" src="{{asset('img/todayweather-cover.png')}}" alt="">
                             </figure>
                         </article>
                     </div>
@@ -581,19 +581,19 @@
     <div class="modal-background"></div>
     <div class="modal-card">
         <header class="modal-card-head">
-            <p class="modal-card-title">Project title</p>
+            <p class="modal-card-title">WeatherApp</p>
             <button class="delete" aria-label="close"></button>
         </header>
         <section class="modal-card-body">
             <div id="project-5-modal-carousel" class="carousel">
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/1.png')}}" alt="">
+                    <img src="{{asset('img/todayweather-cover.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/2.png')}}" alt="">
+                    <img src="{{asset('img/todayweatherapp.png')}}" alt="">
                 </figure>
                 <figure class="image is-4by3 carousel-cell">
-                    <img src="{{asset('img/carousel/3.png')}}" alt="">
+                    <img src="{{asset('img/todayweatherapp2.png')}}" alt="">
                 </figure>
             </div>
 
