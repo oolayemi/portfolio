@@ -598,16 +598,12 @@
             </div>
 
             <div class="content">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore
-                    magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    commodo
-                    consequat.</p>
+                <p>A weather based web application for realtime weather update.</p>
                 <div class="tags">
-                    <span class="tag">angular</span>
-                    <span class="tag">mongo</span>
-                    <span class="tag">typscript</span>
-                    <span class="tag">node</span>
+                    <span class="tag">VueJS</span>
+                    <span class="tag">WeatherApi</span>
+                    <span class="tag">Frontend</span>
+                    <span class="tag">SPA</span>
                 </div>
             </div>
 
